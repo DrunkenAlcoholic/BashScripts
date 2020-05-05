@@ -95,26 +95,26 @@ bc5="${reset}${orange}${bold}"
 if [ "$1" == "beer" ]; then
 cat <<EOF
 
-${c3}                     ${bc4}.sssssssss.${reset}
-${c3}               ${bc4}.sssssssssssssssssss${reset}         ${bc3}${USER}${ic}${bc2}@${bc0}${host}${reset}
-${c3}             ${bc4}sssssssssssssssssssssssss${reset}      ${lc}OS:        ${ic}${os}${reset}
-${c3}            ${bc4}ssssssssssssssssssssssssssss${reset}    ${lc}KERNEL:    ${ic}${kernel}${reset}
-${c3}             ${bc4}@@sssssssssssssssssssssss@ss${reset}   ${lc}UPTIME:    ${ic}${uptime}${reset}
-${c3}             |${bc4}s@@@@sssssssssssssss@@@@s${c3}|${bc4}s${reset}   ${lc}PACKAGES:  ${ic}${packages}${reset} 
-${c3}      _______|${bc4}sssss@@@@@sssss@@@@@sssss${c3}|${bc4}s${reset}   ${lc}MEMORY:    ${ic}${mem}${reset}  
-${c3}    /         ${bc4}sssssssss@sssss@sssssssss${c3}|${bc4}s${reset}   ${lc}SHELL:     ${ic}${shell}${reset}
-${c3}   /  .------+${c5}.${bc4}ssssssss@sssss@ssssssss${c5}.${c3}|${reset}    ${lc}${uitype}:        ${ic}${ui}${reset}
-${c3}  /  /       |${c5}...${bc4}sssssss@sss@sssssss${c5}...${c3}|${reset}
-${c3} |  |        |${c5}.......${bc4}sss@sss@ssss${c5}......${c3}|${reset}
-${c3} |  |        |${c5}..........${bc4}s@ss@sss${c5}.......${c3}|${reset}
-${c3} |  |        |${c5}...........${bc4}@ss@${c5}..........${c3}|${reset}
-${c3}  \  \       |${c5}............${bc4}ss@${c5}..........${c3}|${reset}
-${c3}   \  '------+${c5}...........${bc4}ss@${c5}...........${c3}|${reset}
-${c3}    \________ ${c5}.........................${c3}|${reset}
-${c3}             |${c5}.........................${c3}|${reset}
-${c3}             |${c5}.........................${c3}|${reset}
-${c3}              |${c5}.......................${c3}|${reset}
-${c3}                 |_________________|${reset}
+${c3}                   ${bc4}.sssssssss.${reset}
+${c3}             ${bc4}.sssssssssssssssssss${reset}         ${bc3}${USER}${ic}${bc2}@${bc0}${host}${reset}
+${c3}           ${bc4}sssssssssssssssssssssssss${reset}      ${lc}OS:        ${ic}${os}${reset}
+${c3}          ${bc4}ssssssssssssssssssssssssssss${reset}    ${lc}KERNEL:    ${ic}${kernel}${reset}
+${c3}           ${bc4}@@sssssssssssssssssssssss@ss${reset}   ${lc}UPTIME:    ${ic}${uptime}${reset}
+${c3}           |${bc4}s@@@@sssssssssssssss@@@@s${c3}|${bc4}s${reset}   ${lc}PACKAGES:  ${ic}${packages}${reset} 
+${c3}      _____|${bc4}sssss@@@@@sssss@@@@@sssss${c3}|${bc4}s${reset}   ${lc}MEMORY:    ${ic}${mem}${reset}  
+${c3}    /       ${bc4}sssssssss@sssss@sssssssss${c3}|${bc4}s${reset}   ${lc}SHELL:     ${ic}${shell}${reset}
+${c3}   /  .----+${c5}.${bc4}ssssssss@sssss@ssssssss${c5}.${c3}|${reset}    ${lc}${uitype}:        ${ic}${ui}${reset}
+${c3}  /  /     |${c5}...${bc4}sssssss@sss@sssssss${c5}...${c3}|${reset}
+${c3} |  |      |${c5}.......${bc4}sss@sss@ssss${c5}......${c3}|${reset}
+${c3} |  |      |${c5}..........${bc4}s@ss@sss${c5}.......${c3}|${reset}
+${c3} |  |      |${c5}...........${bc4}@ss@${c5}..........${c3}|${reset}
+${c3}  \  \     |${c5}............${bc4}ss@${c5}..........${c3}|${reset}
+${c3}   \  '----+${c5}...........${bc4}ss@${c5}...........${c3}|${reset}
+${c3}    \______ ${c5}.........................${c3}|${reset}
+${c3}           |${c5}.........................${c3}|${reset}
+${c3}           |${c5}.........................${c3}|${reset}
+${c3}            |${c5}.......................${c3}|${reset}
+${c3}               |_________________|${reset}
 
 
 EOF
