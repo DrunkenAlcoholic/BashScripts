@@ -1,7 +1,6 @@
-## Pfetch-Modded
+## pfetch-Modded
 
-# pfetch-modded
-A moddification to pfetch, added some extra functions and created an Ascii for the Solus OS
+A modification to pfetch, added some extra functions and created an Ascii for the Solus OS
 
 # Usage
 Make the pfetch-modded.sh file executable... then run terminal command in the same directory or place pfetch-modded.sh in ~/bin folder. You can use pfetch-modded by itself or add it to your bashrc file, passing the "beer" argument with show an ascii of a beer mug
@@ -13,4 +12,4 @@ $ pfetch-modded.sh
 $ pfetch-modded.sh beer
 ```
 
-![alt text](https://github.com/DrunkenAlcoholic/BashScripts/blob/master/pfetch-modded/ScreenShot.png)
+![alt text](https://github.com/DrunkenAlcoholic/BashScripts/blob/master/pfetch-modded/ScreenShot-Budgie.png)
