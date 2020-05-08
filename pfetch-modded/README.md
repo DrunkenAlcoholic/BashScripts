@@ -12,4 +12,5 @@ $ pfetch-modded.sh
 $ pfetch-modded.sh beer
 ```
 
-![alt text](https://github.com/DrunkenAlcoholic/BashScripts/blob/master/pfetch-modded/ScreenShot-Budgie.png)
+![alt text](https://github.com/DrunkenAlcoholic/BashScripts/blob/master/pfetch-modded/ScreenShot-budgie.png)
+![alt text](https://github.com/DrunkenAlcoholic/BashScripts/blob/master/pfetch-modded/Screenshot-beer.png)
