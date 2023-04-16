@@ -1,15 +1,16 @@
-## pfetch-Modded
+## ufetch-Modded
 
-A modification to pfetch, added some extra functions and created an Ascii for the Solus OS
+A modification to ufetch(https://gitlab.com/jschx/ufetch), added some extra functions and created an Ascii for the Solus OS
+
 
 # Usage
-Make the pfetch-modded.sh file executable... then run terminal command in the same directory or place pfetch-modded.sh in ~/bin folder. You can use pfetch-modded by itself or add it to your bashrc file, passing the "beer" argument with show an ascii of a beer mug
+Make the ufetch-modded.sh file executable... then run terminal command in the same directory or place pfetch-modded.sh in ~/bin folder. You can use pfetch-modded by itself or add it to your bashrc file, passing the "beer" argument with show an ascii of a beer mug
 
 # Examples
 ```bash
-$ pfetch-modded.sh
+$ ufetch-modded.sh
 
-$ pfetch-modded.sh beer
+$ ufetch-modded.sh beer
 ```
 
 ![alt text](https://github.com/DrunkenAlcoholic/BashScripts/blob/master/pfetch-modded/ScreenShot-budgie.png)
